@@ -2,21 +2,24 @@
 using namespace std;
 
 class Solution {
-  public:
+public:
     vector<int> bfsOfGraph(int V, vector<int> adj[]) {
-        int vis[V] = {0}; 
-        vis[0] = 1; 
-        queue<int> q;
-        q.push(0); 
+        vector<int> vis(V, 0);   // safer than raw array
         vector<int> bfs; 
+        queue<int> q;
+
+        vis[0] = 1; 
+        q.push(0); 
+
         while(!q.empty()) {
             int node = q.front(); 
             q.pop(); 
             bfs.push_back(node); 
-            for(auto it : adj[node]) {
-                if(!vis[it]) {
-                    vis[it] = 1; 
-                    q.push(it); 
+
+            for(int neigh : adj[node]) {
+                if(!vis[neigh]) {
+                    vis[neigh] = 1; 
+                    q.push(neigh); 
                 }
             }
         }
@@ -24,29 +27,23 @@ class Solution {
     }
 };
 
-void addEdge(vector <int> adj[], int u, int v) {
+void addEdge(vector<int> adj[], int u, int v) {
     adj[u].push_back(v);
-    adj[v].push_back(u);
+    adj[v].push_back(u); // remove if graph is directed
 }
 
-void printAns(vector <int> &ans) {
-    for (int i = 0; i < ans.size(); i++) {
-        cout << ans[i] << " ";
-    }
-}
+int main() {
+    int V = 6;
+    vector<int> adj[V];
 
-int main() 
-{
-    vector <int> adj[6];
-    
     addEdge(adj, 0, 1);
     addEdge(adj, 1, 2);
     addEdge(adj, 1, 3);
     addEdge(adj, 0, 4);
 
     Solution obj;
-    vector <int> ans = obj.bfsOfGraph(5, adj);
-    printAns(ans);
+    vector<int> ans = obj.bfsOfGraph(V, adj);
 
+    for (int x : ans) cout << x << " ";
     return 0;
 }
