@@ -1,20 +1,20 @@
 
 
-# 🎉 Hacktoberfest 2024: Code, Connect & Celebrate! 🚀
+# 🎉 Hacktoberfest 2025: Code, Connect & Celebrate! 🚀
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/e1f0f8b0-146f-4c0b-9ee0-51cc9f0c99b4" alt="Hacktoberfest2024" width="180" style="border-radius: 16px; box-shadow: 0 2px 8px #aaa;"/>
+   <img src="https://github.com/user-attachments/assets/e1f0f8b0-146f-4c0b-9ee0-51cc9f0c99b4" alt="Hacktoberfest2025" width="180" style="border-radius: 16px; box-shadow: 0 2px 8px #aaa;"/>
 </p>
 
 <p align="center">
-   <a href="https://github.com/strivedi4u/Hacktoberfest2024" target="_blank">
-      <img src="https://img.shields.io/github/stars/strivedi4u/Hacktoberfest2024?style=social" alt="GitHub stars"/>
+   <a href="https://github.com/strivedi4u/Hacktoberfest2025" target="_blank">
+      <img src="https://img.shields.io/github/stars/strivedi4u/Hacktoberfest2025?style=social" alt="GitHub stars"/>
    </a>
    <a href="https://github.com/strivedi4u?tab=followers" target="_blank">
       <img src="https://img.shields.io/github/followers/strivedi4u?label=Follow&style=social" alt="GitHub followers"/>
    </a>
-   <a href="https://github.com/strivedi4u/Hacktoberfest2024/issues" target="_blank">
-      <img src="https://img.shields.io/github/issues/strivedi4u/Hacktoberfest2024?color=blue" alt="GitHub issues"/>
+   <a href="https://github.com/strivedi4u/Hacktoberfest2025/issues" target="_blank">
+      <img src="https://img.shields.io/github/issues/strivedi4u/Hacktoberfest2025?color=blue" alt="GitHub issues"/>
    </a>
    <a href="https://chat.whatsapp.com/JP5uGuNAS0f6ShuuanPh7E" target="_blank">
       <img src="https://img.shields.io/badge/Join%20WhatsApp%20Group-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Join WhatsApp Group"/>
@@ -28,8 +28,8 @@
 ### ⭐ If you find this repository helpful, please give it a star! ⭐
 
 <p align="center">
-   <a href="https://github.com/strivedi4u/Hacktoberfest2024/stargazers">
-      <img src="https://img.shields.io/github/stars/strivedi4u/Hacktoberfest2024?style=social" alt="Star this repo"/>
+   <a href="https://github.com/strivedi4u/Hacktoberfest2025/stargazers">
+      <img src="https://img.shields.io/github/stars/strivedi4u/Hacktoberfest2025?style=social" alt="Star this repo"/>
    </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 
 
-> 🌍 This repository is part of **Hacktoberfest 2024!**
+> 🌍 This repository is part of **Hacktoberfest 2025!**
 > We’re excited to have you here and encourage developers of all skill levels, especially beginners, to participate in contributing to this open-source project. Whether it’s your first time contributing or you're an experienced developer, this project is designed to be welcoming, fun, and collaborative!
 
 
@@ -115,12 +115,12 @@ Contributing to this project is easy and rewarding. Follow these steps to make y
 2. 📂 **Clone Your Forked Repository**
    After forking, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/strivedi4u/hacktoberfest2024.git
+   git clone https://github.com/strivedi4u/hacktoberfest2025.git
    ```
 
 3. 📁 **Navigate to the Project Directory**
    ```bash
-   cd hacktoberfest2024
+   cd hacktoberfest2025
    ```
 
 4. 🛠️ **Make Your Changes**
@@ -152,9 +152,9 @@ If you want to stay updated with my projects and contributions, feel free to fol
 ---
 
 ### 🌟 Reach 200+ Stars Before October 31
-**Due by:** October 31, 2024
+**Due by:** October 31, 2025
 
-Help our repository gain visibility and encourage participation during Hacktoberfest 2024! Our goal is to reach **200 stars** before the end of October.
+Help our repository gain visibility and encourage participation during Hacktoberfest 2025! Our goal is to reach **200 stars** before the end of October.
 
 #### 🎯 Objectives
 - 🚀 **Increase Visibility:** Share the repository on social media, relevant forums, and within developer communities to attract more users and contributors.
@@ -178,8 +178,8 @@ Help our repository gain visibility and encourage participation during Hacktober
 ## 🏅 Our Top Contributors
 
 <p align="center">
-   <a href="https://github.com/strivedi4u/Hacktoberfest2024/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=strivedi4u/Hacktoberfest2024" width="400" style="border-radius: 12px; box-shadow: 0 2px 8px #aaa;"/>
+   <a href="https://github.com/strivedi4u/Hacktoberfest2025/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=strivedi4u/Hacktoberfest2025" width="400" style="border-radius: 12px; box-shadow: 0 2px 8px #aaa;"/>
    </a>
 </p>
 
