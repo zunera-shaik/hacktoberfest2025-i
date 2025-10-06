@@ -92,7 +92,7 @@
 [![Contributors](https://contrib.rocks/image?repo=strivedi4u/Hacktoberfest2025&max=100)](https://github.com/strivedi4u/Hacktoberfest2025/graphs/contributors)
 
 <!-- LIVE-CONTRIBUTOR-TABLE:START -->
-<img src="https://github-contributor-stats.vercel.app/api?username=strivedi4u&repo=Hacktoberfest2025&limit=10&theme=radical&combine_all_yearly_contributions=true" alt="Live Contributor Stats"/>
+
 <!-- LIVE-CONTRIBUTOR-TABLE:END -->
 
 ### 🏅 Special Recognition Categories
